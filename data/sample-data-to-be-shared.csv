@@ -1,0 +1,6 @@
+Sentence Number,Disfluent Sentence,Fluent Sentence,Disfluency Type,Domain Label
+1,Send uhm send ETA via whatsapp,Send ETA via whatsapp,C,Send_digital_object
+2,On my Apple watch show me my sleep sleep stats for last night.,On my Apple watch show me my sleep stats for last night.,R,Get_health_stats
+3,Read me um read my unread texts please.,read my unread texts please.,FS,Get_message_content
+4,I need to add a um a work number for Maria.,I need to add a work number for Maria.,F,Add_contact
+5,I want you to read um read my health stats.,I want you to read my health stats.,C,Get_health_stats
